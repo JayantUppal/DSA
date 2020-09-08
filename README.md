@@ -25,4 +25,8 @@
 - Bubble Sort
 - Insertion Sort
 - Selection Sort
-  
+ 
+### [Searching](/Searching)
+
+- Linear Search
+- Binary Search
