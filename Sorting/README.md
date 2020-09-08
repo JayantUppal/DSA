@@ -14,6 +14,9 @@
 
 - [Selection sort](/Sorting/Selection_Sort.c) works as follows - you look through the entire array for the smallest element, once you find it you swap it (the smallest element) with the first element of the array. Then you look for the smallest element in the remaining array (an array without the first element) and swap it with the second element and so on.
 
+- Comparison between O(n^2) algorithms
+
+[sample](/Sorting/O(n^2)_compare_graph.png)
 
 ### O(n*logn) algorithms
 
