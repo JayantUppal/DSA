@@ -6,7 +6,7 @@
 
 ## What's Included
 
-### O(n^2) algorithms
+### O(n<sup>2</sup>) algorithms
 
 - [Bubble sort](/Sorting/Bubble_Sort.c) works by comparing each item in the list with the item next to it, and swapping them if required. In other words, the largest element has bubbled to the top of the array. The algorithm repeats this process until it makes a pass all the way through the list without swapping any items.
 
@@ -14,7 +14,7 @@
 
 - [Selection sort](/Sorting/Selection_Sort.c) works as follows - you look through the entire array for the smallest element, once you find it you swap it (the smallest element) with the first element of the array. Then you look for the smallest element in the remaining array (an array without the first element) and swap it with the second element and so on.
 
-- Comparison between O(n^2) algorithms
+- Comparison between O(n<sup>2</sup>) algorithms
 
    ![O(n^2)_compare_graph](https://user-images.githubusercontent.com/47852407/92424063-e3f88d80-f1a0-11ea-820d-38543fc792df.png)
 
