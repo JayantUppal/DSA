@@ -16,7 +16,7 @@
 
 - Comparison between O(n^2) algorithms
 
-[sample](https://user-images.githubusercontent.com/47852407/92424063-e3f88d80-f1a0-11ea-820d-38543fc792df.png)
+   ![O(n^2)_compare_graph](https://user-images.githubusercontent.com/47852407/92424063-e3f88d80-f1a0-11ea-820d-38543fc792df.png)
 
 ### O(n*logn) algorithms
 
