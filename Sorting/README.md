@@ -23,3 +23,4 @@
 
 - [Quick Sort](/Sorting/Quick_Sort.c) is based on the divide-and-conquer technique. DIVIDE by choosing any element in the subarray array. Call this element the pivote. Here we are choosing the rightmost element in the subarray as the pivot. CONQUER by recursively sorting the subarrays of array. COMBINE by doing nothing. Once the conquer step recursively sorts, we are done.
   
+### [To calculate time-taken by any algorithm](/Sorting/TimeTaken.txt)
