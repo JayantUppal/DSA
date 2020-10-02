@@ -1,12 +1,10 @@
 # Data Structures and Algorithms
 
----
 
 ## Description
 
   In this repository, you can find the implementation of algorithms and data structures in programming language C.
 
----
 
 ## What's Included
 
