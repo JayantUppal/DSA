@@ -30,3 +30,8 @@
 
 - Linear Search
 - Binary Search
+
+### [Matrix-Multiplication](/Matrix-Multiplication)
+
+- Naive method
+- Strassen's method
