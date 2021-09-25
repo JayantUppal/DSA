@@ -8,17 +8,17 @@
 
 ## What's Included
 
-### [Stack]
+### Stack
 
 - Implementation of Stack
 
 
-### [Queue]
+### Queue
 
 - Implementation of Queue
 - Implementation of Circular Queue
   
-### [Sorting]
+### Sorting
 
 - Bubble Sort
 - Insertion Sort
@@ -26,12 +26,12 @@
 - Merge Sort
 - Quick Sort
  
-### [Searching]
+### Searching
 
 - Linear Search
 - Binary Search
 
-### [Matrix-Multiplication]
+### Matrix-Multiplication
 
 - Naive method
 - Strassen's method
