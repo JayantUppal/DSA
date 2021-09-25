@@ -19,7 +19,7 @@
 
 ### O(n*logn) algorithms
 
-- Merge Sort is based on the divide-and-conquer technique. It involves the following three steps - Divide the array into two subarrays (DIVIDE), sort each subarray (CONQUER) and Merge them into one (MERGE). [Merge sort with a different approach](/Sorting/MergeSort_Diff.c).
+- Merge Sort is based on the divide-and-conquer technique. It involves the following three steps - Divide the array into two subarrays (DIVIDE), sort each subarray (CONQUER) and Merge them into one (MERGE). Merge sort with a different approach
 
 - Quick Sort is based on the divide-and-conquer technique. DIVIDE by choosing any element in the subarray array. Call this element the pivote. Here we are choosing the rightmost element in the subarray as the pivot. CONQUER by recursively sorting the subarrays of array. COMBINE by doing nothing. Once the conquer step recursively sorts, we are done.
   
