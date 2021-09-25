@@ -6,12 +6,12 @@
 
 ## What's Included
 
-### [Linear Search](/Searching/Linear_Search.c)
+### Linear Search
 
 - Linear Search is the simplest searching algorithm. It traverses the array sequentially to locate the required element.
 - Time Complexity of Linear Search Algorithm is O(n).
 
-### [Binary Search](/Searching/Binary_Search.c)
+### Binary Search
 
 - Binary Search is one of the fastest searching algorithms. It is used for finding the location of an element in a sorted array using divide and conquer technique.
 - Time Complexity of Binary Search Algorithm is O(logn).
