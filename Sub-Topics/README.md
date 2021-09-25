@@ -8,7 +8,7 @@
 
 ## What's Included
 
-### [Stack](/Stack)
+### [Stack](Sub-Topics/Stack)
 
 - Implementation of Stack
 
